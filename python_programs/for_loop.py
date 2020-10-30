@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+ 
 #user input
 number =int(input())
 for i in range(1, 5):
